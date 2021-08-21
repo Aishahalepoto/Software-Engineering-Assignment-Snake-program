@@ -1,4 +1,4 @@
-# Software-Engineering-Assignment-Snake-program
+# Software-Engineering-Assignment-Snake-Game using Turtle in Python
 
 # import required modules 
 
